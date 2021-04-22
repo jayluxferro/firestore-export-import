@@ -1,0 +1,28 @@
+{
+  "name": "firestore-export-import",
+  "version": "1.0.0",
+  "description": "Export and Import Collection from Firestore Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayluxferro/firestore-export-import.git"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "export",
+    "import"
+  ],
+  "author": "Jay Lux Ferro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayluxferro/firestore-export-import/issues"
+  },
+  "homepage": "https://github.com/jayluxferro/firestore-export-import#README.md",
+  "dependencies": {
+    "firebase-admin": "^9.6.0"
+  }
+}
